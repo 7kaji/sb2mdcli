@@ -1,7 +1,7 @@
 ```
 $ npm install
-$ node puppeteer.js <SCRAPBOX_PAGE_URL>
+$ node puppeteer.js <SCRAPBOX_PUBLIC_PAGE_URL>
 ```
 
-REF
+## REF
 https://github.com/daiiz/sb2md
